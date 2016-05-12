@@ -1,0 +1,7 @@
+#input and output files
+
+*.csv
+*.xls
+*.xlsx
+
+kaggle-mnist-digits/
